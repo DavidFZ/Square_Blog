@@ -13,8 +13,9 @@ tags:
     ```
 * 参考资料
     * [个人博客搭建](https://blog.cuijiacai.com/blog-building/)
-    * Mac 安装Node.JS 
-    ```bash 
-    brew install node 
-    ```
+    * [Mac 安装Node](https://blog.csdn.net/shang775005278/article/details/112016714)
+    * [Git仓库的配置](https://blog.csdn.net/hao310810401/article/details/117747366)
+    * [Finder中打开特殊文件夹](https://xmanyou.com/macos-finder-goto-folder-short-key/amp/)
+    * [Mac .shh文件位置](https://blog.csdn.net/m0_47808809/article/details/106995753)
+
     
